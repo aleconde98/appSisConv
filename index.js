@@ -17,7 +17,7 @@ app.use(function (req, res, next) {
     next();
 });
 
-app.get('/calc', function (req, res) {
+app.post('/calc', function (req, res) {
     return res.json(
         {
             "primerNumero": 10,
@@ -43,7 +43,7 @@ app.get('/calc', function (req, res) {
     );
 });
 
-app.get('/bat', function (req, res) {
+app.post('/bat', function (req, res) {
     return res.json(
         {
             "preguntas":
