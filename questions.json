@@ -1,0 +1,256 @@
+[
+    {
+        "code": "2023011401",
+        "text": "La hoja de roble, la batavia y la romana son variedades de ¿Alcachofa o Lechuga?",
+        "answers": [
+            {
+                "id": "A",
+                "text": "Alcachofa",
+                "synonyms": [
+                    "De alcachofa"
+                ]
+            },
+            {
+                "id": "B",
+                "text": "Lechuga",
+                "synonyms": [
+                    "De lechuga"
+                ]
+            }
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "code": "2023011402",
+        "text": "¿En que provincia española podemos recorrer el vertiginoso ''Caminito del Rey''? ¿Granada o Málaga?",
+        "answers": [
+            {
+                "id": "A",
+                "text": "Granada",
+                "synonyms": [
+                    "En Granada"
+                ]
+            },
+            {
+                "id": "B",
+                "text": "Málaga",
+                "synonyms": [
+                    "En Málaga"
+                ]
+            }
+        ],
+        "correctAnswer": "B"
+
+    },
+    {
+        "code": "2023011403",
+        "text": "En un teclado de ordenador, en la tecla de que número encontramos la arroba? ¿en la 2 o en la 7?",
+        "answers": [
+            {
+                "id": "A",
+                "text": "2",
+                "synonyms": [
+                    "En la 2",
+                    "En la tecla 2",
+                    "En la tecla dos",
+                    "En el número 2"
+                ]
+            },
+            {
+                "id": "B",
+                "text": "7",
+                "synonyms": [
+                    "En la 7",
+                    "En la tecla 7",
+                    "En la tecla siete",
+                    "En el número 7"
+                ]
+            }
+        ],
+        "correctAnswer": "A"
+    },
+    {
+        "code": "2023011404",
+        "text": "¿Qué tipo de edificio se presenta en la bandera de Cambodia? ¿Un templo hinduista o una pagoda?",
+        "answers": [
+            {
+                "id": "A",
+                "text": "Templo hinduista",
+                "synonyms": [
+                    "Un templo hinduista",
+                    "Un templo",
+                    "Un templo hindú",
+                    "Un templo hindústa",
+                    "Templo"
+                ]
+            },
+            {
+                "id": "B",
+                "text": "Pagoda",
+                "synonyms": [
+                    "Una pagoda",
+                    "Una pagoda budista",
+                    "Una pagoda budista"
+                ]
+            }
+        ],
+        "correctAnswer": "A"
+    },
+    {
+        "code": "2023011405",
+        "text": "Según el refrán, del dicho al hecho hay un gran... ¿Paso o Trecho?",
+        "answers": [
+            {
+                "id": "A",
+                "text": "Paso",
+                "synonyms": [
+                    "Un paso",
+                    "Un gran paso",
+                    "Un gran paso"
+                ]
+            },
+            {
+                "id": "B",
+                "text": "Trecho",
+                "synonyms": [
+                    "Un trecho",
+                    "Un gran trecho",
+                    "Un gran trecho"
+                ]
+            }
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "code": "2023011406",
+        "text": "¿Qué forma tiene la planta del Panteón de Roma? ¿Circular o Cuadrada?",
+        "answers": [
+            {
+                "id": "A",
+                "text": "Circular",
+                "synonyms": [
+                    "De forma circular",
+                    "De forma redonda",
+                    "Redonda",
+                    "Forma Circular",
+                    "Círculo"
+                ]
+            },
+            {
+                "id": "B",
+                "text": "Cuadrada",
+                "synonyms": [
+                    "De forma cuadrada",
+                    "Forma Cuadrada",
+                    "Cuadrado"
+                ]
+            }
+        ],
+        "correctAnswer": "A"
+    },
+    {
+        "code": "2023011407",
+        "text": "¿A qué reino pertenecen las esponjas de mar? ¿Animal o Vegetal?",
+        "answers": [
+            {
+                "id": "A",
+                "text": "Animal",
+                "synonyms": [
+                    "Al Animal",
+                    "Al reino Animal",
+                    "Reino Animal",
+                    "Animalia"
+                ]
+            },
+            {
+                "id": "B",
+                "text": "Vegetal",
+                "synonyms": [
+                    "Al Vegetal",
+                    "Al reino Vegetal",
+                    "Reino Vegetal",
+                    "Plantae"
+                ]
+            }
+
+        ],
+        "correctAnswer": "A"
+    },
+    {
+        "code": "2023011408",
+        "text": "¿En qué ciudad extremeña se rodó la mayor parte de la serie ''La Catedral del Mar''? ¿En Cáceres o en Plasencia?",
+        "answers": [
+            {
+                "id": "A",
+                "text": "Cáceres",
+                "synonyms": [
+                    "En Cáceres",
+                    "En la ciudad de Cáceres",
+                    "En la ciudad de Caceres"
+                ]
+            },
+            {
+                "id": "B",
+                "text": "Plasencia",
+                "synonyms": [
+                    "En Plasencia",
+                    "En la ciudad de Plasencia"
+                ]
+            }
+        ],
+        "correctAnswer": "A"
+    },
+    {
+        "code": "2023011409",
+        "text": "De qué corriente filosófica es uno de sus máximos representantes Martin Heidegger? ¿Positivismo o existencialismo?",
+        "answers": [
+            {
+                "id": "A",
+                "text": "Positivismo",
+                "synonyms": [
+                    "Positivismo",
+                    "Positivismo filosófico",
+                    "Filosofía Positivista",
+                    "Filosofía Positivista"
+                ]
+            },
+            {
+                "id": "B",
+                "text": "Existencialismo",
+                "synonyms": [
+                    "Existencialismo",
+                    "Existencialismo filosófico",
+                    "Filosofía Existencialista",
+                    "Filosofía Existencialista"
+                ]
+            }
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "code": "2023011410",
+        "text": "¿De qué color es la borla del gorro del eternamente perdido Wally? ¿Blanca o Roja?",
+        "answers": [
+            {
+                "id": "A",
+                "text": "Blanca",
+                "synonyms": [
+                    "De color blanco",
+                    "Es blanca",
+                    "Blanco"
+                ]
+            },
+            {
+                "id": "B",
+                "text": "Roja",
+                "synonyms": [
+                    "De color rojo",
+                    "Es roja",
+                    "Rojo"
+                ]
+            }
+        ],
+        "correctAnswer": "B"
+    }
+
+]

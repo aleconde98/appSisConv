@@ -1,0 +1,23 @@
+{
+    "code": "set01",
+    "dateString": "20230114",
+    "firstNumber": 10,
+    "operations": [
+        { "order": 1, "number": 7, "operation": "s", "answer": 17 },
+        { "order": 2, "number": 2, "operation": "m", "answer": 34 },
+        { "order": 3, "number": 1, "operation": "r", "answer": 33 },
+        { "order": 4, "number": 3, "operation": "d", "answer": 11 },
+        { "order": 5, "number": 4, "operation": "s", "answer": 15 },
+        { "order": 6, "number": 12, "operation": "m", "answer": 180 },
+        { "order": 7, "number": 5, "operation": "r", "answer": 175 },
+        { "order": 8, "number": 7, "operation": "d", "answer": 25 },
+        { "order": 9, "number": 62, "operation": "s", "answer": 87 },
+        { "order": 10, "number": 3, "operation": "d", "answer": 29 },
+        { "order": 11, "number": 2, "operation": "m", "answer": 58 },
+        { "order": 12, "number": 16, "operation": "m", "answer": 74 },
+        { "order": 13, "number": 5, "operation": "m", "answer": 370 },
+        { "order": 14, "number": 2, "operation": "r", "answer": 368 },
+        { "order": 15, "number": 8, "operation": "d", "answer": 46 }
+    ]
+
+}
